@@ -8,17 +8,17 @@ title = "Ling Ling"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2 Jan 2006"
   logo = "LLogo.png"
-  secondaryLogo = "LL logo.png"
-  # description = "My awesome website"
+  # secondaryLogo = "LL logo.png"
+  description = "Ling Ling, Tai"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Ling Ling, Tai (戴菱蔆)"
    email = "linglingtai@pm.me"
    image = "Ling2-hero.jpg"
-#   imageQuality = 96
+   imageQuality = 96
    headline = "Doctoral Researcher & Intercultural Psychologist"
    bio = "Doctoral Researcher & Intercultural Psychologist"
    links = [
