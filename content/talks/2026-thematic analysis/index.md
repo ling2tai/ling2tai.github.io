@@ -30,5 +30,3 @@ This oral presentation took place at the [IACCP Conference](https://iaccp2026.co
     src="https://www.canva.com/design/DAHLoV37nPw/Hekl3rE0JVUUvajtB41ofQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHLoV37nPw&#x2F;Hekl3rE0JVUUvajtB41ofQ&#x2F;view?utm_content=DAHLoV37nPw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Psychological and Sociocultural Adaptation of Asylum-Seekers and Refugees: A Thematic-Analysis</a> by Ling Ling
-
