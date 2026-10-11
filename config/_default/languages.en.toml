@@ -12,7 +12,7 @@ title = "Ling Ling"
   logo = "LLogo.png"
   # secondaryLogo = "LL logo.png"
   description = "Ling Ling, Tai"
-  # copyright = "Copy, _right?_ :thinking_face:"
+ # copyright = ""
 
 [params.author]
    name = "Ling Ling, Tai (戴菱蔆)"

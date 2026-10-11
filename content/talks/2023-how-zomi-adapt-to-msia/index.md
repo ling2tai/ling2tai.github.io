@@ -27,4 +27,3 @@ This presentation took place on the:
     src="https://www.canva.com/design/DAFdJZX8iaw/7yw8HvaZcpKJK4LYV64P7w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFdJZX8iaw&#x2F;7yw8HvaZcpKJK4LYV64P7w&#x2F;view?utm_content=DAFdJZX8iaw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Zomi in Malaysia 2022</a> by Ling Ling

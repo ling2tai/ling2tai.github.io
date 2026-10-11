@@ -2,11 +2,13 @@
 date = '2023-03-30T00:00:00+08:00'
 draft = false
 categories = 'talks'
-description = 'Psychological Adaptation of Ahmadiyya in Malaysia'
-title = 'Psychological Adaptation of Ahmadiyya in Malaysia'
+title = 'The Psychological Adaptation of Ahmadiyya Refugees in Malaysia'
+description = 'The Psychological Adaptation of Ahmadiyya in Malaysia'
+summary = 'Research related to the psychological adaptation of Ahmadiyya refugees in Malaysia was presented to the community.'
 +++
 
-These research findings could not have happened without our supportive partner, the North-South Initiative (NSI). The presentation took place on the 12 March 2023, in Gombak, Malaysia. The presentation title is "Psychological Adaptation of Ahmadiyya in Malaysia"
+# Overview
+These research findings could not have happened without our supportive partner, the North-South Initiative (NSI). The presentation took place on the 12 March 2023, in Gombak, Malaysia. The presentation title is "The Psychological Adaptation of Ahmadiyya in Malaysia"
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
