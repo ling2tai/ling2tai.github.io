@@ -4,4 +4,4 @@ draft = false
 title = 'Current and Past Projects'
 +++
 
-Past and on-going projects including research, interventions, (virtual) workshops and consultations.
+Past and on-going projects including research and interventions (such as workshops), and consultations.

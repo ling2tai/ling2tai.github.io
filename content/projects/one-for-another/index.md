@@ -2,10 +2,12 @@
 date = '2021-11-30T11:49:32+01:00'
 draft = false
 categories = 'project'
-description = 'The “One for Another: Supporting refugees’ integration and strengthening community networks” received support and funding from the International Organization for Migration (IOM) under the EU IPA II project “Regional Support to Protection Sensitive Migration Management in the Western Balkans and Turkey”.'
+summary = 'The “One for Another" is a project aims to support refugees’ integration and strengthen community networks of unaccompanied minors based in in Belgrade, Serbia.'
+description = '“One for Another" received support and funding from the International Organization for Migration (IOM) under the EU IPA II project “Regional Support to Protection Sensitive Migration Management in the Western Balkans and Turkey”.'
 title = 'The "One for Another" Project'
 +++
 
+## Overview
 The ["One for Another: Supporting refugees’ integration and strengthening community networks"](https://psychosocialinnovation.net/en/projects/) project started in August 2021 and ended in November 2021. This project received support and funding from the International Organization for Migration (IOM) under the EU IPA II project “Regional Support to Protection Sensitive Migration Management in the Western Balkans and Turkey”. Under the [Psychosocial Innovation Network (PIN)](https://psychosocialinnovation.net) guidance, this project supported the local community’s integration and acceptance of unaccompanied refugee minors (UAMs). 
 
 Youths are the future leaders and promoters of social change in Serbian society. Thus, this project is focused on promoting tolerance, intercultural sensitivity, and social cohesion and reducing xenophobia among Serbian youths. The project was designed to encourage and create peer-to-peer support networks between locals and refugees through psycho-educational workshops, engagement sessions and integration activities. 
@@ -28,6 +30,7 @@ Integration activities were organised and facilitated for refugee UAMs and local
 
 Considering weather conditions and COVID-19 restrictions, activities were selected based on the interests and suggestions of the local youths and refugee UAMs. Every participant made an effort to get to know each other. At the end of each session, there were good exchanges between the UAMs and local youths. 
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/wildflower/53328231017/in/dateposted-public/" title="One for Another Closing Event"><img src="https://live.staticflickr.com/65535/53328231017_27f5cb4033_c.jpg" width="616" height="800" alt="One for Another Closing Event"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![One for Another Closing Event in Karaburma, Belgrade](featured-2111-karaburma.png "One for Another Closing Event in Karaburma, Belgrade")
+{style="width:100%;"}
 
 The project concluded with a conference where Serbian youths and refugee UAMs shared their experience at a local school in Karaburma. My deepest gratitude to Maša Vukčević Marković, Aleksandra Nicović and Ana Milić and the PIN team for their openness, guidance and for the opportunity to be included in this project. 

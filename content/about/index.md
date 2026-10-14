@@ -11,7 +11,7 @@ draft = false
 
 I'm a doctoral researcher and intercultural psychologist in social psychology focusing on how individuals and societies respond to intercultural relations and forced migration. My PhD research focuses on **asylum-seekers and refugees' psychological and sociocultural adaptation** in resettled and transit countries. I use mixed methods, specifically meta-analyses, thematic analyses, and psychometrics. 
 
-I am especially interested in how forced migration experiences influences individuals' and societies' psychological processes, and how these findings could have tangible implications for policy, practice, and public discourse. I aim to conduct research that is both methodologically rigorous and socially responsible, particularly when working with vulnerable or displaced populations. 
+I am especially interested in **how forced migration experiences influences individuals' and societies' psychological processes**, and how these findings could have tangible implications for policy, practice, and public discourse. I aim to conduct research that is both methodologically rigorous and socially responsible, particularly when working with vulnerable or displaced populations. 
 
 Before entering academia, I worked in electronics engineering, travel technology, learning & development, and humanitarian organisations, across Europe, United States, and the Asia Pacific. I was often exposed to cultural and societal challenges of discrimination and inequality, as such, these experiences continue to inform how I approach research and the kinds of social issues I am drawn to.
 

@@ -3,8 +3,12 @@ date = '2026-07-02T00:00:00+00:00'
 draft = false
 categories = 'talks'
 description = 'This thematic analysis examines adaptation experiences of asylum-seekers and refugees across three countries.'
+summary = 'Using thematic analysis, I examine similarities and contextual differences in the adaptation experiences of asylum-seekers and refugees across three countries.'
 title = "Psychological and Sociocultural Adaptation of Asylum-Seekers and Refugees: A Thematic-Analysis in Germany, Malaysia, and Portugal"
 +++
+
+![Presentation at the IACCP conference 2026, Leuven, Belgium](featured.png "Presentation at the IACCP conference 2026, Leuven, Belgium")
+{style="width:100%;"}
 
 ## Authors
 - Ling Ling Tai, ISCTE-University Institute of Lisbon, Portugal
