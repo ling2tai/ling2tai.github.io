@@ -2,11 +2,12 @@
 date = '2025-11-08T00:00:00+00:00'
 draft = false
 categories = 'talks'
-description = 'This 70-minute virtual panel about the unique psychological and sociocultural adaptation processes of refugees in both resettled and transit countries.'
+description = 'The aim of the panel was to increase knowledge about how refugees adapt in different contexts. The panel also discussed how to work with women refugees.'
+summary = 'This aim of the panel was to increase knowledge about how refugees adapt in different contexts. The panel also discussed how to work with women refugees.'
 title = 'BRIDGE: Connecting Lived Experience & Refugee Mental Healthcare'
 +++
 
-![virtual panel about forced displacement](featured.png "BRIDGE: Connecting Lived Experience & Refugee Mental Healthcare")
+![virtual panel about forced displacement](the-bridge.png "BRIDGE: Connecting Lived Experience & Refugee Mental Healthcare")
 {style="width:70%;"}
 
 This 70-minute virtual panel brings together researchers, practitioners, and refugees who have lived and worked within displacement contexts across West and Southeast Asia. Panelists will discuss the unique psychological and sociocultural adaptation processes of refugees in both resettled and transit countries, highlighting how these experiences differ from other migrant groups. The discussion will also deepen understanding of the specific needs and strengths of women refugees, offering insights to enhance culturally responsive mental health practice.

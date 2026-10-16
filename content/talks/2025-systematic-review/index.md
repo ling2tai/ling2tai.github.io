@@ -3,6 +3,7 @@ date = '2025-07-02T00:00:00+00:00'
 draft = false
 categories = 'talks'
 description = 'This systematic review examines adaptation experiences of asylum-seekers and refugees in their resettlement or transit countries.'
+summary = 'This systematic review included 199 studies that involved participants from 24 origin countries, now residing in 35 countries.'
 title = 'New Arrival? A Systematic Review of the Psychological & Sociocultural Adaptation of Refugees and Aylum-Seekers'
 +++
 
@@ -45,4 +46,3 @@ This presentation took place at the:
     src="https://www.canva.com/design/DAGjYK9AlsY/fu37P7jgrsBiSL97CG_DuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjYK9AlsY&#x2F;fu37P7jgrsBiSL97CG_DuQ&#x2F;view?utm_content=DAGjYK9AlsY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Arrival? A Systematic Review of Refugee's Psychological & Sociocultural Adaptation</a> by Ling Ling

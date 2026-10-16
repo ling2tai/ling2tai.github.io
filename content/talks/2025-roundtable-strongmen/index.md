@@ -2,7 +2,8 @@
 date = '2025-04-05T00:00:00+00:00'
 draft = false
 categories = 'roundtable'
-description = 'This roundtable discussion – emerging from discussions held in the ICP’s Psychology of Democracy Reading Group – will focus on power dynamics in modern societies and how they affect migrant populations. '
+description = 'This roundtable discussion – emerging from discussions held in the ICP’s Psychology of Democracy Reading Group – will focus on power dynamics in modern societies and how they affect migrant populations.'
+summary = 'This roundtable discussion emerged from the ICP Psychology of Democracy Reading Group, focuses on power dynamics in modern societies and how they affect migrant populations.'
 title = 'Strongmen and the Othering of Migrants: Power and Meritocracy in Societies in Crisis'
 +++
 
