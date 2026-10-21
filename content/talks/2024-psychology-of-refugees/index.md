@@ -2,7 +2,7 @@
 date = '2024-11-30T00:00:00+08:00'
 draft = false
 categories = 'talks'
-description = 'Many Zomi, an ethnic group from Myanmar, fled to Malaysia due to internal conflict. Research has shown Zomi are uniquely resilient in the face of hardship. Can we learn from them?'
+summary = 'Current research examined the psychological factors associated with refugee adaptation, focusing on Zomi refugees in Malaysia, an ethnic minority who fled Myanmar due to protracted conflict.'
 title = 'Psychology of Refugees: Zomi in Malaysia'
 +++
 

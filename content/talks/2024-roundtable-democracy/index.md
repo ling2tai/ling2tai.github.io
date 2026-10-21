@@ -2,7 +2,7 @@
 date = '2024-07-30T00:00:00+00:00'
 draft = false
 categories = 'roundtable'
-description = 'This roundtable discussion – emerging from discussions held in the ICP’s Psychology of Democracy Reading Group – will focus on power dynamics in modern societies and how they affect migrant populations. '
+summary = 'Emerging from discussions held in the ICP’s Psychology of Democracy Reading Group, this roundtable focused on potential threats to democracy and how we might mitigate them. '
 title = 'Round Table: Psychology and Democracy Reading Group'
 +++
 

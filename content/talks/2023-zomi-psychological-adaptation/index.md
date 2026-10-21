@@ -2,7 +2,7 @@
 date = '2023-03-29T00:00:00+08:00'
 draft = false
 categories = 'talks'
-description = 'Many Zomi, an ethnic group from Myanmar, fled to Malaysia in the past decade. Research has shown Zomi are uniquely resilient in the face of hardship. What does reseach show?'
+summary = 'Zomi is an ethnic group that originates from Myanmar. Fleeing to Malaysia, many adjusted to a country that is very different from their own.'
 title = 'Examining Zomi Refugees Psychological Adaptation'
 +++
 
@@ -21,4 +21,3 @@ Upon graduation, I presented the research findings to NSI members and refugee le
     src="https://www.canva.com/design/DAFfNEQDAuk/Ly1ZphP4zoxkdgUBQ0J3CQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfNEQDAuk&#x2F;Ly1ZphP4zoxkdgUBQ0J3CQ&#x2F;view?utm_content=DAFfNEQDAuk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Examining Zomi Refugees’ Psychological Adaptation</a> by Ling Ling

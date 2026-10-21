@@ -2,7 +2,7 @@
 date = '2023-04-30T00:00:00+08:00'
 draft = false
 categories = 'talks'
-description = 'Many Zomi, an ethnic group from Myanmar, fled to Malaysia due to internal conflict. Research has shown Zomi are uniquely resilient in the face of hardship. Can we learn from them?'
+summary = 'Zomi, an ethnic group from Myanmar, fled to Malaysia due to internal conflict. Research has shown Zomi are uniquely resilient in the face of hardship. Can we learn from them?'
 title = 'How Zomi Adapt to Life in Malaysia?'
 +++
 

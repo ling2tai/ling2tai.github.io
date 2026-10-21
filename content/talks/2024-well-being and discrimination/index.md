@@ -2,7 +2,7 @@
 date = '2024-08-30T00:00:00+00:00'
 draft = false
 categories = 'talks'
-description = 'The Role of Host Country Contexts for Refugee Subjective Well Being and Perceptions of Discrimination.'
+summary = 'In addition to the usual migration challenges, refugees face discrimination that negatively affects participation in host societies, reduces the likelihood of integration, and affects their well-being.'
 title = 'The Role of Host Country Contexts for Refugee Subjective Well Being and Perceptions of Discrimination.'
 +++
 
