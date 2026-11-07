@@ -2,7 +2,6 @@
 date = '2026-08-30T00:00:00+00:00'
 draft = false
 categories = 'webinar'
-description = 'This roundtable discussion – emerging from discussions held in the ICP’s Psychology of Democracy Reading Group – will focus on power dynamics in modern societies and how they affect migrant populations.'
 summary = 'Dr Ryan Chua speaks about resilience of indigenous communites in Malaysia. Moderated by Ling Ling and hosted by the International Council of Psychologists (ICP)'
 title = 'Land, Community and Identity: Indigenous Pathways to Resilience and Human Dignity'
 +++

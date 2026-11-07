@@ -6,9 +6,8 @@ summary = 'This research project is part of the Masters of Psychology in Intercu
 title = 'Psychological Adaptation of Zomi Refugees in Malaysia'
 +++
 
-![After the presentation with Zomi Teachers](zomi-teachers.png "Psychological Adaptation of Zomi Refugees in Malaysia")
-{style="width:70%;"}
-
+## Overview
+The Zomi people are an ethnic minority from the Chin state of Myanmar. They are one of many ethnic minorities that fled Myanmar seeking refuge in Malaysia. My master's research project examined how Zomi refugees adapted to Malaysia. We considered the role of loss of control, perception of forcedness and related perils and how it shapes Zomi refugees' subjective well-being for Zomi refugees and comparing them with non-Zomi refugees.
 
 ## Thesis
 Tai, L. L., Guerra, R., & Bierwiaczonek, K. (2022). Examining Zomi refugees psychological adaptation with the psychological antecedents of refugee integration model [Master Thesis, Iscte-University Institute of Lisbon]. https://repositorio.iscte-iul.pt/entities/publication/d3e4a706-db21-4b2f-ae58-7112a12faff5

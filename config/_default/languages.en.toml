@@ -16,13 +16,13 @@ title = "Ling Ling"
 
 [params.author]
    name = "Ling Ling, Tai | 戴菱蔆"
-   email = "linglingtai@pm.me"
+   email = "hello@lltai.me"
    image = "Ling2-hero.jpg"
    imageQuality = 96
    headline = "Doctoral Researcher & Intercultural Psychologist"
-   bio = "Doctoral Researcher & Intercultural Psychologist"
+   bio = "I'm a Doctoral Researcher & Intercultural Psychologist"
    links = [
-      { email = "mailto:linglingtai@pm.me" },
+      { email = "mailto:hello@lltai.me" },
 #     { osf = " https://osf.io/dm7z5/" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
