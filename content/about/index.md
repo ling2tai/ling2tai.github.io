@@ -20,7 +20,7 @@ I am also a member of:
 - [The International Association for Intercultural Relations (IAIR)](https://intercultural-academy.net)
 - [The International Council of Psychologists (ICP)](https://icpweb.org)
 
-I am currently based at the [Centre for Psychological Research and Social Intervention (CIS)](https://www.cis.iscte-iul.pt/) at ISCTE-University Institute of Lisbon. I welcome opportunities for discussion and collaboration on psychological research related to forced migration, intergroup relations, intervention design, and social policy. If you're interested to connect, [please get in touch](mailto:linglingtai@pm.me).
+I am currently based at the [Centre for Psychological Research and Social Intervention (CIS)](https://www.cis.iscte-iul.pt/) at ISCTE-University Institute of Lisbon. I welcome opportunities for discussion and collaboration on psychological research related to forced migration, intergroup relations, intervention design, and social policy. If you're interested to connect, [please get in touch](mailto:hello@lltai.me).
 
 ## Elsewhere
 - 23 November 2023: [Meet the PhD students of 2023/24](https://www.cis.iscte-iul.pt/post/meet-the-phd-students-of-2023-24/)
