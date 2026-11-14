@@ -6,6 +6,9 @@ summary = 'Emerging from discussions held in the ICP’s Psychology of Democracy
 title = 'Round Table: Psychology and Democracy Reading Group'
 +++
 
+![Round Table at the ICP conference 2024, Prague, Czech Republic](2408-rtd.jpg "Round Table at the ICP conference 2024, Prague, Czech Republic")
+{style="width:100%;"}
+
 ## Presenters
 Josephine Tan (Lakehead University), Polli Hagenaars (C5, private practice), Mary Beth Kenkel (Florida Institute of Technology), Ibeh Agbanyim (Grand Canyon University), Elaine Oloaye (Brookdale Community College) Ling Ling Tai (Iscte-University Institute of Lisbon, Portugal)
 

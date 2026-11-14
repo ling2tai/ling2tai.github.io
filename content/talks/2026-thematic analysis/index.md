@@ -7,7 +7,7 @@ summary = 'Using thematic analysis, I examine similarities and contextual differ
 title = "Psychological and Sociocultural Adaptation of Asylum-Seekers and Refugees: A Thematic-Analysis in Germany, Malaysia, and Portugal"
 +++
 
-![Presentation at the IACCP conference 2026, Leuven, Belgium](featured.png "Presentation at the IACCP conference 2026, Leuven, Belgium")
+![Presentation at the IACCP conference 2026, Leuven, Belgium](2607-ta-talk.png "Presentation at the IACCP conference 2026, Leuven, Belgium")
 {style="width:100%;"}
 
 ## Authors

@@ -6,6 +6,9 @@ summary = 'In addition to the usual migration challenges, refugees face discrimi
 title = 'The Role of Host Country Contexts for Refugee Subjective Well Being and Perceptions of Discrimination.'
 +++
 
+![Presentation at the IACCP conference 2024, Bali, Indonesia](2607-swb-pd.jpg "Presentation at the IACCP conference 2024, Bali, Indonesia")
+{style="width:100%;"}
+
 ## Authors 
 - Ling Ling Tai, ISCTE-University Institute of Lisbon, Portugal (presenter)
 - Rita Guerra, ISCTE-University Institute of Lisbon, Portugal
