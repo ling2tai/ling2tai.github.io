@@ -3,7 +3,7 @@ date = '2024-08-30T00:00:00+00:00'
 draft = false
 categories = 'talks'
 summary = 'In addition to the usual migration challenges, refugees face discrimination that negatively affects participation in host societies, reduces the likelihood of integration, and affects their well-being.'
-title = 'The Role of Host Country Contexts for Refugee Subjective Well Being and Perceptions of Discrimination.'
+title = 'The Role of Host Country Contexts for Refugee Subjective Well Being and Perceptions of Discrimination'
 +++
 
 ![Presentation at the IACCP conference 2024, Bali, Indonesia](2607-swb-pd.jpg "Presentation at the IACCP conference 2024, Bali, Indonesia")
